@@ -7,4 +7,4 @@ Lately, I've been especially interested in learning more about Data Science and 
 
 Here you'll find everything I'm working on. Hope you do not leave disappointed. 
 
-Also, pointers are ALWAYS welcomed and appreciated! :D
+Also, pointers are ALWAYS welcomed and appreciated!
